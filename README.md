@@ -1,6 +1,6 @@
 - Hi, I’m Kautilya Bhardwaj
 - I am interested in Android development
-- I am currently improving my data structures and Jetpack Compose skills
+- I am currently improving my data structures and Android Jetpack skills
 - You can reach me on my gmail: kautilya101001@gmail.com
 
 <!---
