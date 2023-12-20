@@ -1,6 +1,6 @@
 - Hi, I’m Kautilya Bhardwaj
-- I am interested in Android development
-- I am currently improving my data structures and Android Jetpack skills
+- I am a Web Developer.My Tech Stack contains React | TypeScript | JavaScript.
+- Following a path of continuous learning new technologies.
 - You can reach me on my gmail: kautilya101001@gmail.com
 
 <!---
