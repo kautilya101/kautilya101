@@ -1,6 +1,9 @@
-# 💫 About Me:
-F U L L S T A C K     D E V E L O P E R<br>Looking for Fullstack developer opportunities.<br>Currently working on Next.js and node.js.<br>Love Tailwind.<br>Please don't mind , I over React sometimes HAHA.
-
+## 💫 About Me  
+🚀 **Full-Stack Developer** passionate about building modern, scalable, and beautiful web applications.  
+💻 Currently crafting projects with **Next.js**, **Node.js**, and my all-time favorite **Tailwind CSS**.  
+⚡ I sometimes **over-React** (literally 😅), but it’s all in the name of great UI/UX.  
+📚 Always learning, always experimenting — from backend optimizations to pixel-perfect frontends.  
+🎯 Actively looking for **Full-Stack Developer** opportunities where I can solve real-world problems and grow with the team.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kautilya-bhardwaj-63285a1a9/) 
